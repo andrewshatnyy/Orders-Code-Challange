@@ -1,6 +1,9 @@
 [![Build Status](https://travis-ci.org/andrewshatnyy/Orders-Code-Challange.svg?branch=master)](https://travis-ci.org/andrewshatnyy/Orders-Code-Challange)
 
+
 #Orders Code Challange
+
+*This is my take on recent code challenge, utilizing basic data structures in ruby.*
 
 Lets assume that every order can be represented by a tuple `(orderId, companyName, customerAdress, orderedItem)`.
 
